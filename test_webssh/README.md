@@ -12,11 +12,11 @@
 
 
 ### 文档说明：
-* 加了crontab
-* 加了日志记录
+* 加了crontab,用于删除过期无用的文件
+* 加了命令记录，用于日后审计工作
 ### 接口：
 * "" : index
-* 
+* /show/ : 
 
 
 
@@ -31,3 +31,6 @@
     源代码的在webssh页面，与后台交互时，按ctrl+R搜索历史命令时，
     直接回车会抛异常，导致websocket长链接直接断开，有待进一步完善。
     
+### 欢迎大家访问我的博客地址：
+* www.haiguixiansheng.org.cn
+* www.cnblogs.com/haiguixiansheng
