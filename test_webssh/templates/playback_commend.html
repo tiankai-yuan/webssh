@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>操作记录回放</title>
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="/static/asciinema-player.css" />
+</head>
+<body>
+    <div class="row">
+     <asciinema-player src="{{ MEDIA_URL }}{{ file_name }}" cols="260" rows="40"></asciinema-player>
+</div>
+<script src="/static/asciinema-player.js"></script>
+</body>
+</html>
