@@ -21,7 +21,7 @@ from app01 import views
 from test_webssh import settings
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    # path('admin/', admin.site.urls),
     path('', views.index),
     path('upload_ssh_key/', views.upload_ssh_key),
     path('show/', views.CommandData.as_view()),

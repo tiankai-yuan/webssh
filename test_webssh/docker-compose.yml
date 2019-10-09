@@ -1,0 +1,29 @@
+version: '3'
+networks:
+  connect:
+    driver: bridge
+services:
+  db:
+    image: mysql
+    restart: always
+    command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci --init-connect='SET NAMES utf8mb4;' --innodb-flush-log-at-trx-commit=0
+    expose:
+      - "3306"
+    volumes:
+      - ./dockermysql:/var/lib/mysql:rw
+    environment:
+      - MYSQL_DATABASE=test_webssh
+      - MYSQL_ROOT_PASSWORD=123456
+    networks:
+      - connect
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:9000 --insecure
+    volumes:
+      - .:/app
+    ports:
+      - "8002:8002"
+    depends_on:
+      - db
+    networks:
+      - connect
