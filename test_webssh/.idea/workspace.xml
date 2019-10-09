@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e94c4f5d-2b3d-44d7-a2ee-c82a1544d2ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_webssh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_webssh/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="e94c4f5d-2b3d-44d7-a2ee-c82a1544d2ef" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_webssh/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="386">
@@ -59,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/start.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="198">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -144,6 +140,8 @@
       <find>mysql</find>
       <find>9000</find>
       <find>8002</find>
+      <find>start</find>
+      <find>start.s</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -344,12 +342,12 @@
       <workItem from="1569719999039" duration="2387000" />
       <workItem from="1569806188173" duration="4622000" />
       <workItem from="1570498622998" duration="6879000" />
-      <workItem from="1570586060146" duration="10558000" />
+      <workItem from="1570586060146" duration="10799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147111000" />
+    <option name="totallyTimeSpent" value="147352000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +366,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36302894" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46325168" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -705,17 +703,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_webssh/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
           <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
