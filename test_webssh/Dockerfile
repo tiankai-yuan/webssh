@@ -21,4 +21,5 @@ COPY requirements.txt /app/requirements.txt
 
 RUN pip install -r requirements.txt --no-cache-dir
 
-CMD ["/bin/bash", "start.sh"]
+CMD /bin/sh -c /app/start.sh
+#CMD ["/bin/sh", "-c", "/app/start.sh"]

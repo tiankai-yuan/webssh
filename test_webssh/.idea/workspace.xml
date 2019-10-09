@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e94c4f5d-2b3d-44d7-a2ee-c82a1544d2ef" name="Default Changelist" comment="" />
+    <list default="true" id="e94c4f5d-2b3d-44d7-a2ee-c82a1544d2ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.start.sh.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app01/cron.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/cron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_1.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_10.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_2.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_3.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_4.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_5.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_6.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_7.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_8.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_9.ibt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/binlog.000003" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/binlog.000003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/ibtmp1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dockermysql/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_webssh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_webssh/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,17 +44,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_webssh/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+            <state relative-caret-position="193">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
+        <entry file="file://$PROJECT_DIR$/app01/cron.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="66">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -37,29 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/start.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="113">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -68,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/test_webssh/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
               <folding>
                 <element signature="e#635#667#0" expanded="true" />
               </folding>
@@ -84,6 +97,15 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/start.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -141,7 +163,9 @@
       <find>9000</find>
       <find>8002</find>
       <find>start</find>
+      <find>dockermysql</find>
       <find>start.s</find>
+      <find>ALLOWED_HOSTS</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,7 +184,6 @@
         <option value="$PROJECT_DIR$/app01/__init__.py" />
         <option value="$PROJECT_DIR$/templates/playground.html" />
         <option value="$PROJECT_DIR$/templates/playbackcommend.html" />
-        <option value="$PROJECT_DIR$/app01/cron.py" />
         <option value="$PROJECT_DIR$/static/webssh.js" />
         <option value="$PROJECT_DIR$/app01/tools/channel/websocket.py" />
         <option value="$PROJECT_DIR$/app01/tools/ssh.py" />
@@ -177,9 +200,10 @@
         <option value="$PROJECT_DIR$/test_webssh/urls.py" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/start.sh" />
+        <option value="$PROJECT_DIR$/app01/cron.py" />
         <option value="$PROJECT_DIR$/test_webssh/settings.py" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -205,7 +229,13 @@
             <path>
               <item name="test_webssh" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_webssh" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_webssh" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_webssh" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+              <item name="media" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,12 +372,12 @@
       <workItem from="1569719999039" duration="2387000" />
       <workItem from="1569806188173" duration="4622000" />
       <workItem from="1570498622998" duration="6879000" />
-      <workItem from="1570586060146" duration="10799000" />
+      <workItem from="1570586060146" duration="13339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147352000" />
+    <option name="totallyTimeSpent" value="149892000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,7 +396,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46325168" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4064588" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -528,16 +558,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app01/cron.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/tmp_file/4cdd8ad555ecc2e69b9d82cba1f4d264.json" />
     <entry file="file://$PROJECT_DIR$/../python/Lib/ntpath.py" />
     <entry file="file://$PROJECT_DIR$/app01/models.py">
@@ -635,27 +655,10 @@
     <entry file="file://$PROJECT_DIR$/test_webssh/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1685018087/1170049292/django/views/generic/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
           <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="44" column="52" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,17 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_webssh/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
           <folding>
             <element signature="e#635#667#0" expanded="true" />
           </folding>
@@ -696,24 +692,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="113">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_webssh/settings.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="143" column="7" selection-start-line="143" selection-start-column="7" selection-end-line="143" selection-end-column="7" />
+        <state relative-caret-position="501">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="44" column="52" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/start.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/cron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_webssh/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
