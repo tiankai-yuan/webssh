@@ -141,7 +141,7 @@ if not os.path.isdir(MEDIA_ROOT):
 # django的定时任务
 CRONJOBS = (
     # 每一分钟执行一次你的定时函数
-    ('*/ * * * *', 'app01.cron.clean_useless_file'),
+    ('* * * * *', 'app01.cron.clean_useless_file'),
 
     # # 定时函数输出的内容到指定文件（如果该路径或文件不存在将会自动创建）
     # ('0  0 1 * *', 'app名.定时函数所在文件名.定时函数名', '>输出文件路径和名称'),

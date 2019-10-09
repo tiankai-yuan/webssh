@@ -5,6 +5,7 @@ ENV PYTHONUMBUFFERED 1
 RUN mkdir /app \
 && mkdir /app/dockermysql \
 && apt-get -y update \
+&& apt-get -qq -y install cron \
 && apt-get install -y --no-install-recommends \
 		sshpass \
 		vim \
