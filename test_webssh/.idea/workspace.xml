@@ -3,29 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e94c4f5d-2b3d-44d7-a2ee-c82a1544d2ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.start.sh.swp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app01/cron.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/cron.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_1.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_10.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_2.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_3.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_4.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_5.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_6.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_7.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_8.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/#innodb_temp/temp_9.ibt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/binlog.000003" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/binlog.000003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/binlog.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/ib_buffer_pool" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/ibtmp1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/mysql.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/undo_001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dockermysql/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/dockermysql/undo_002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_webssh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_webssh/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +32,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="203">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -104,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/start.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -136,7 +115,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>socket</find>
       <find>webssh</find>
       <find>channel</find>
       <find>192.168.223.111</find>
@@ -166,6 +144,7 @@
       <find>dockermysql</find>
       <find>start.s</find>
       <find>ALLOWED_HOSTS</find>
+      <find>app/start.</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -200,18 +179,18 @@
         <option value="$PROJECT_DIR$/test_webssh/urls.py" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/start.sh" />
         <option value="$PROJECT_DIR$/app01/cron.py" />
         <option value="$PROJECT_DIR$/test_webssh/settings.py" />
+        <option value="$PROJECT_DIR$/start.sh" />
         <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1492" />
-    <option name="y" value="204" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -372,12 +351,12 @@
       <workItem from="1569719999039" duration="2387000" />
       <workItem from="1569806188173" duration="4622000" />
       <workItem from="1570498622998" duration="6879000" />
-      <workItem from="1570586060146" duration="13339000" />
+      <workItem from="1570586060146" duration="16064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149892000" />
+    <option name="totallyTimeSpent" value="152617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -389,14 +368,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992658" visible="true" weight="0.2889126" />
       <window_info id="Structure" order="1" sideWeight="0.5007342" side_tool="true" weight="0.26599148" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4064588" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47327393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -716,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app01/cron.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -737,10 +709,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="203">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
